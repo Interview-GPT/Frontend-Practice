@@ -23,3 +23,9 @@ body {
     background-color: #ddd;
     color: black;
 }
+
+.engineering-team-title {
+    font-size: 36px; /* Adjust the font size as needed */
+    font-weight: bold;
+    color: blue;
+}
